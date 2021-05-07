@@ -5,7 +5,7 @@ The Shape Maker application is a Vue.js application which I created as part of t
 
 ## Inital Work
 
-## Next Steps (Complete :confetti_ball:)
+## Next Steps
 :black_square_button: Upload Code
 
 :black_square_button: Format Code
