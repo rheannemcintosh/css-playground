@@ -1,3 +1,4 @@
+// Use Vue to alter the square's perspective and rotation
 Vue.createApp({
     data() {
         return {
