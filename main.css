@@ -78,6 +78,10 @@ button {
     margin-right: 10px;
 }
 
+button:hover {
+    background-color: #015A68;
+}
+
 label {
     color: #F7FAFC;
 }
