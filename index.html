@@ -9,6 +9,7 @@
         <div id="app">
             <h2>Square Shape Maker</h2>
             <main>
+                <!-- Display the input elements to change the perspective and rotation of the square -->
                 <section class="settings">
                     <div class="settings-container">
                         <label>perspective: {{ perspective }}px</label>
@@ -28,6 +29,7 @@
                     </div>
                 </section>
 
+                <!-- Output the created square -->
                 <section class="output">
                     <div class="box-container">
                         <div class="box" :style="box"></div>
@@ -36,6 +38,7 @@
             </main>
         </div>
 
+        <!-- Create a CSS doodle for the background-->
         <css-doodle>
             :doodle {
                 @grid: 1x3 / 100vmax;
@@ -66,6 +69,7 @@
             }
         </css-doodle>
 
+        <!-- Import the scripts -->
         <script src="https://unpkg.com/css-doodle@0.6.1/css-doodle.min.js"></script>
         <script src="https://unpkg.com/vue@next"></script>
         <script src="app.js"></script>
