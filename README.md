@@ -10,9 +10,9 @@ The original applicaton was inspired by a tutorial within the [Complete Vue Mast
 - [x] Upload Code
 - [x] Format Code
 - [x] Update README
-- [ ] Update Repository
-- [ ] Create Future Ideas
-- [ ] Write Application Setup / Commands
+- [x] Update Repository
+- [x] <s>Create Future Ideas</s>
+- [x] Write Application Setup / Commands
 - [ ] Uploaded to Portfolio
 - [ ] Update Wiki
 - [ ] Archive Repository
