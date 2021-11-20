@@ -6,16 +6,22 @@ The Square Shape Playground application is a Vue.js application, which allows yo
 ### Inspiration
 The original applicaton was inspired by a tutorial within the [Complete Vue Mastery 2022](https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex) course.
 
+<!-- ### Customising the Application -->
+
 ## Repository Checklist
 - [x] Upload Code
 - [x] Format Code
-- [x] Update README
 - [x] Update Repository
+- [x] Update README
 - [x] <s>Create Future Ideas</s>
 - [x] Write Application Setup / Commands
-- [ ] Uploaded to Portfolio
-- [ ] Update Wiki
+- [x] Launch Website
+- [ ] Create Card on Portfolio
+- [ ] Create Page on Portfolio
 - [ ] Archive Repository
+
+<!-- ## Future Ideas -->
+<!-- :bulb: Add Future Ideas Here -->
 
 ## Notes
 - **Language:** Vue.js
