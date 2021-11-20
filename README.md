@@ -1,27 +1,31 @@
-# Shape Maker :orange_square:
+# Square Shape Maker :blue_square:
 
 ## Project Overview
-The Shape Maker application is a Vue.js application which I created as part of the Zero to Mastery course. This is also a part of my 2<sup>nd</sup> round of the **100 Days of Code Challenge**.
+The Square Shape Maker application is a Vue.js application, which allows you to change the rotation and perspective of a Square. This is developed using Vue.js and CSS.
 
-## Inital Work
+### Inspiration
+The original applicaton was inspired by a tutorial within the [Complete Vue Mastery 2022](https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex) course.
 
-## Next Steps
-:black_square_button: Upload Code
-
-:black_square_button: Format Code
-
-:black_square_button: Update README
-
-:black_square_button: Update Repository
-
-:black_square_button: Post on Instagram
-
-:black_square_button: Update Wiki
+## Repository Checklist
+- [x] Upload Code
+- [x] Format Code
+- [x] Update README
+- [ ] Update Repository
+- [ ] Create Future Ideas
+- [ ] Write Application Setup / Commands
+- [ ] Uploaded to Portfolio
+- [ ] Update Wiki
+- [ ] Archive Repository
 
 ## Notes
-- **Language:**
+- **Language:** Vue.js
+- **Tags:** Vue.js, CSS, HTML
+- **Tutorial:** [Zero to Mastery: Complete Vue Mastery 2022 (Section 3: Perspective Playground)](https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex)
 - **Author:** Rheanne McIntosh
-- **100 Days of Code:**
-- **Tutorial:** []()
+
+## Application Setup / Commands
+1. Simply open `index.html` and you should be able to view the project locally.
+
+<hr>
 
 If you have any questions or can suggest any improvements, please let me know!
