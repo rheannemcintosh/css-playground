@@ -48,7 +48,7 @@ main label {
 main input[type="range"] {
     display: block;
     margin-bottom: 10px;
-    width: 200px;
+    width: 250px;
 }
 
 section.settings {
@@ -80,4 +80,12 @@ button {
 
 label {
     color: #F7FAFC;
+}
+
+.settings {
+    margin-right: 50px;
+}
+
+.output {
+    margin-left: 50px;
 }
