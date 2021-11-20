@@ -24,7 +24,7 @@ The original applicaton was inspired by a tutorial within the [Complete Vue Mast
 - **Author:** Rheanne McIntosh
 
 ## Application Setup / Commands
-1. Simply open `index.html` and you should be able to view the project locally.
+1. Simply open `index.html` in a browser and you should be able to view the project locally.
 
 <hr>
 
